@@ -29,9 +29,35 @@ Social Media: https://twitter.com/sudhargovindan/status/1361720513148706821
 
 Program: IBM Career Education program for College Students & Teaching Faculty
 
-Type: Technical Conference (Virtual)
+Type: Webinar
 
-Talk - <a href="https://crescent.education/university/schools/school-of-computer-information-and-mathematical-sciences/department-of-computer-science-and-engineering/accolades/ibm-career-education-program">Introduction to CI/CD & DevOps</a>
+Topic: <a href="https://crescent.education/university/schools/school-of-computer-information-and-mathematical-sciences/department-of-computer-science-and-engineering/accolades/ibm-career-education-program">Introduction to CI/CD & DevOps</a>
 </p>
 <br>
 
+<p>
+4. Amrita Vishwa Vidyapeetham
+
+Program: Corporate Industry Relations
+
+Type: Webinar
+
+Topic: <a href="https://intranet.cb.amrita.edu/download/public/2021/cir/newsletter/Utkarsh_May2021.pdf">Workshop on Enterprise Design Thinking</a>
+</p>
+
+# 2020
+
+<p>
+1. Build Smart on Kubernetes World Tour
+
+a) Type: Meetup
+
+Topic: <a href="https://www.meetup.com/IBMDevConnect-Bangalore/events/268165571/">OpenShift vs Kubernetes</a>
+
+Social Media: https://twitter.com/sudhargovindan/status/1233641421275451392
+
+b) Type: Meetup (virtual)
+
+</p>
+
+<br>
