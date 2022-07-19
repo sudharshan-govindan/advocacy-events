@@ -37,7 +37,7 @@ Place: Crescent Institute of Science & Technology, Virtual
 <br>
 Type: Webinar
 <br>
-Responsibility:Tech Talk
+Responsibility: Tech Talk
 <br>
 Topic: <a href="https://crescent.education/university/schools/school-of-computer-information-and-mathematical-sciences/department-of-computer-science-and-engineering/accolades/ibm-career-education-program">Introduction to CI/CD & DevOps</a>
 <br>
@@ -54,13 +54,13 @@ Topic: <a href="https://intranet.cb.amrita.edu/download/public/2021/cir/newslett
 # 2020
 
 <p>
-<b>Build Smart on Kubernetes World Tour</b>
+<b>1. Build Smart on Kubernetes World Tour</b>
 
 Place: Bangalore, India
 <br>
 Type: Meetup
 <br>
-Responsibility:Tech Talk
+Responsibility: Tech Talk
 <br>
 Topic: OpenShift vs Kubernetes
 <br>
@@ -73,11 +73,26 @@ Place: Virtual
 <br>
 Type: Meetup
 <br>
-Responsibility:Hands-on Workshop
+Responsibility: Hands-on Workshop
 <br>
 Topic: COVID-19 Data Analytics Microservices Application with OpenShift
 <br>
 Link: https://www.meetup.com/IBMDevConnect-Bangalore/events/274053172/
+</p>
+
+<p>
+<b>2. IBM DevConnect Bangalore Meetup</b>
+
+Place: Virtual
+<br>
+Type: Meetup
+<br>
+Responsibility: Hands-on Workshop
+<br>
+Topic: Build, and Test Your Applications with CodeReady Containers
+<br>
+Link: https://www.meetup.com/ibmdevconnect-bangalore/events/274669310/
+<br>
 </p>
 
 # 2019
@@ -279,9 +294,13 @@ Topic: Deploy MicroProfile based Java microservices on Kubernetes
 Link: https://www.meetup.com/IBMDevConnect-Bangalore/events/256537019/
 <br>
 
+Title: IBM Cloud Technical Workshop
+<br>
 Responsibility: Hands-on Workshop
 <br>
-Topic: IBM Cloud technical workshop
+Topic: IBM Cloud Technical Workshop
+<br>
+Link: https://www.meetup.com/ibmdevconnect-bangalore/events/252587565/
 <br>
 Social Media: https://twitter.com/sudhargovindan/status/1016208713525420032
 <br>
@@ -300,6 +319,15 @@ Responsibility: Tech Talk
 Topic: Serverless Computing-A Paradigm shift
 <br>
 Link: https://www.meetup.com/ibmdevconnect-bangalore/events/248298903/
+<br>
+
+Title: Extend your On-premises applications and services to a Hybrid Cloud
+<br>
+Responsibility: Tech Talk
+<br>
+Topic: Extend your On-premises applications and services to a Hybrid Cloud
+<br>
+Link: https://www.meetup.com/ibmdevconnect-bangalore/events/248053464/
 <br>
 </p>
 
@@ -405,7 +433,7 @@ https://twitter.com/seemapk/status/936236535212425216
 </p>
 
 <p>
-<b>4. IBM DevConnect</b>
+<b>4. IBM DevConnect Roadshow</b>
 
 Place: Pune & Noida, India
 <br>
