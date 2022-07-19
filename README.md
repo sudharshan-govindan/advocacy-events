@@ -226,26 +226,7 @@ https://twitter.com/noopur2507/status/1043484581893169152
 </p>
 
 <p>
-<b>7. Eclipse Day India</b>
-
-Place: Bangalore, India
-<br>
-Type: Developer Conference
-<br>
-Responsibility: Tech Talk
-<br>
-Topic: Overview of Call For Code global hackathon
-<br>
-Social Media:
-<br>
-https://twitter.com/sudhargovindan/status/1043354545164697601
-<br>
-https://twitter.com/noopur2507/status/1043484581893169152
-<br>
-</p>
-
-<p>
-<b>8. Great International Developer Summit</b>
+<b>7. Great International Developer Summit</b>
 
 Place: Bangalore, India
 <br>
@@ -262,13 +243,15 @@ Social Media: https://twitter.com/sudhargovindan/status/988658335648956416
 </p>
 
 <p>
-<b>9. IBM DevConnect Bangalore Meetup</b>
+<b>8. IBM DevConnect Bangalore Meetup</b>
 
 Place: Bangalore, India
 <br>
 Type: Meetup
 <br>
 
+Title: Microservices for your Kubernetes cloud - Designing, Developing & Optimizing
+<br>
 Responsibility: Tech Talk
 <br>
 Topic: Refactoring to Microservices
@@ -278,15 +261,22 @@ Link: https://www.meetup.com/IBMDevConnect-Bangalore/events/256565536
 Social Media: https://twitter.com/dinogun/status/1068833517482770434
 <br>
 
+Title: Free Hands-on session on Microservices with Java and Kubernetes
+<br>
 Responsibility: Hands-on Workshop
 <br>
 Topic: Deploy MicroProfile based Java microservices on Kubernetes
 <br>
-Link:
+Link: https://www.meetup.com/IBMDevConnect-Bangalore/events/256141061
 <br>
-https://www.meetup.com/IBMDevConnect-Bangalore/events/256141061
+
+Title: IBM Cloud Private & Containers with Code Patterns - Hands-on Workshop
 <br>
-https://www.meetup.com/IBMDevConnect-Bangalore/events/256537019/
+Responsibility: Hands-on Workshop
+<br>
+Topic: Deploy MicroProfile based Java microservices on Kubernetes
+<br>
+Link: https://www.meetup.com/IBMDevConnect-Bangalore/events/256537019/
 <br>
 
 Responsibility: Hands-on Workshop
@@ -302,10 +292,19 @@ Topic: IBM Cloud Garage Method
 <br>
 Social Media: https://twitter.com/sudhargovindan/status/1075402865571590145
 <br>
+
+Title: Women who Code - Lunch n Learn with IBM celebrating International Women's day
+<br>
+Responsibility: Tech Talk
+<br>
+Topic: Serverless Computing-A Paradigm shift
+<br>
+Link: https://www.meetup.com/ibmdevconnect-bangalore/events/248298903/
+<br>
 </p>
 
 <p>
-<b>10. HackerEarth Meetup</b>
+<b>9. HackerEarth Meetup</b>
 
 Place: Bangalore, India
 <br>
@@ -326,7 +325,7 @@ https://twitter.com/sudhargovindan/status/954603863645995008
 </p>
 
 <p>
-<b>11. Oak Ridge International School's Oak CodeFest</b>
+<b>10. Oak Ridge International School's Oak CodeFest</b>
 
 Place: Bangalore, India
 <br>
@@ -477,5 +476,20 @@ Type: Developer Conference
 Responsibility: Booth Duty
 <br>
 Social Media: https://twitter.com/sudhargovindan/status/928852491566858240
+<br>
+</p>
+
+<p>
+<b>9. IBM DevConnect Bangalore Meetup</b>
+
+Place: Bangalore, India
+<br>
+Type: Meetup
+<br>
+Responsibility: Tech Talk
+<br>
+Topic: Introduction to IBM Cloud and Watson services
+<br>
+Link: https://www.meetup.com/ibmdevconnect-bangalore/events/245661486/
 <br>
 </p>
