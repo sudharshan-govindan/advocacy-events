@@ -337,3 +337,145 @@ Responsibility: Mentor and Jury
 Social Media: https://twitter.com/sudhargovindan/status/954936430597255168
 <br>
 </p>
+
+# 2017
+
+<p>
+<b>1. Open Source India</b>
+
+Place: Bangalore, India
+<br>
+Type: Developer Conference
+<br>
+Responsibility: Hands-on Workshop
+<br>
+Topic: How to deploy a scalable WordPress implementation in Cloud using Kubernetes
+<br>
+Link: https://www.opensourceindia.in/open-source-india-2017
+<br>
+</p>
+
+<p>
+<b>2. Digital Summit</b>
+
+Place: Vishakapatnam, India
+<br>
+Type: Developer Conference
+<br>
+Link: https://www.miraclesoft.com/ds17/speakers
+
+Responsibility: Tech Talk (day 1)
+<br>
+Topic: Deep dive in to IBM Cloud PaaS
+<br>
+Social Media:
+<br>
+https://twitter.com/sudhargovindan/status/940188094573064192
+<br>
+https://twitter.com/sudhargovindan/status/941245466880098304
+
+Responsibility: Hands-on Workshop (day 2)
+<br>
+Topic: Chatbots with Watson Conversation
+<br>
+Social Media:
+<br>
+https://twitter.com/sudhargovindan/status/940189045224648706
+<br>
+https://twitter.com/sudhargovindan/status/941552645046657024
+<br>
+</p>
+
+<p>
+<b>3. IBM Developer Day</b>
+
+Place: Colombo, Sri Lanka
+<br>
+Type: Technical Conference
+<br>
+Responsibility: Hands-on Workshop
+<br>
+Topic: Create a Chatbot using IBM Watson Conversation
+<br>
+Social Media:
+<br>
+https://twitter.com/AshishGautam70/status/936143440886108160
+<br>
+https://twitter.com/seemapk/status/936236535212425216
+<br>
+</p>
+
+<p>
+<b>4. IBM DevConnect</b>
+
+Place: Pune & Noida, India
+<br>
+Type: Developer Conference
+<br>
+Responsibility: Tech Talk
+<br>
+Topic: Intro to IBM Bluemix Runtime
+<br>
+Social Media:
+<br>
+https://twitter.com/sudhargovindan/status/896466568971927552
+<br>
+https://twitter.com/sudhargovindan/status/898438971792834560
+<br>
+</p>
+
+<p>
+<b>5. Hacker Earth's IndiaHacks</b>
+
+Place: Pune, India
+<br>
+Type: Hackathon
+<br>
+Responsibility: Mentor and Jury
+<br>
+Social Media:
+<br>
+https://twitter.com/seemapk/status/896297279274889218
+<br>
+https://twitter.com/sudhargovindan/status/896465479711170560
+<br>
+</p>
+
+<p>
+<b>6. MODS</b>
+
+Place: Bangalore, India
+<br>
+Type: Developer Conference
+<br>
+Responsibility: Booth Duty
+<br>
+Social Media: https://twitter.com/mobiledevsummit/status/916223054866391040
+<br>
+</p>
+
+<p>
+<b>7. NASSCOM Product Enclave</b>
+
+Place: Bangalore, India
+<br>
+Type: Technical Conference
+<br>
+Responsibility: Booth Duty
+<br>
+Social Media: https://twitter.com/sudhargovindan/status/926011016441339905
+<br>
+</p>
+
+<p>
+<b>8. Data Hack Summit</b>
+
+Place: Bangalore, India
+<br>
+Type: Developer Conference
+<br>
+Responsibility: Booth Duty
+<br>
+Social Media: https://twitter.com/sudhargovindan/status/928852491566858240
+<br>
+</p>
