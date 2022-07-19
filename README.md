@@ -262,7 +262,7 @@ Social Media: https://twitter.com/sudhargovindan/status/988658335648956416
 </p>
 
 <p>
-<b>8. IBM DevConnect Bangalore Meetup</b>
+<b>9. IBM DevConnect Bangalore Meetup</b>
 
 Place: Bangalore, India
 <br>
@@ -305,7 +305,7 @@ Social Media: https://twitter.com/sudhargovindan/status/1075402865571590145
 </p>
 
 <p>
-<b>9. HackerEarth Meetup</b>
+<b>10. HackerEarth Meetup</b>
 
 Place: Bangalore, India
 <br>
@@ -326,7 +326,7 @@ https://twitter.com/sudhargovindan/status/954603863645995008
 </p>
 
 <p>
-<b>10. Oak Ridge International School's Oak CodeFest</b>
+<b>11. Oak Ridge International School's Oak CodeFest</b>
 
 Place: Bangalore, India
 <br>
