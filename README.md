@@ -51,6 +51,21 @@ Responsibility: Hands-on Workshop
 Topic: <a href="https://intranet.cb.amrita.edu/download/public/2021/cir/newsletter/Utkarsh_May2021.pdf">Workshop on Enterprise Design Thinking</a>
 </p>
 
+<p>
+<b>4. IBM DevConnect Bangalore Meetup</b>
+
+Place: Virtual
+<br>
+Type: Meetup
+<br>
+Responsibility: Hands-on Workshop
+<br>
+Topic: Build your CI/CD pipelines with Tekton
+<br>
+Link: https://www.meetup.com/ibmdevconnect-bangalore/events/274669328
+<br>
+</p>
+
 # 2020
 
 <p>
@@ -64,7 +79,7 @@ Responsibility: Tech Talk
 <br>
 Topic: OpenShift vs Kubernetes
 <br>
-Link: https://www.meetup.com/ibmdevconnect-bangalore/events/268165571/
+Link: https://www.meetup.com/ibmdevconnect-bangalore/events/268165571
 <br>
 Social Media: https://twitter.com/sudhargovindan/status/1233641421275451392
 <br>
@@ -77,7 +92,7 @@ Responsibility: Hands-on Workshop
 <br>
 Topic: COVID-19 Data Analytics Microservices Application with OpenShift
 <br>
-Link: https://www.meetup.com/IBMDevConnect-Bangalore/events/274053172/
+Link: https://www.meetup.com/IBMDevConnect-Bangalore/events/274053172
 </p>
 
 <p>
@@ -91,8 +106,23 @@ Responsibility: Hands-on Workshop
 <br>
 Topic: Build, and Test Your Applications with CodeReady Containers
 <br>
-Link: https://www.meetup.com/ibmdevconnect-bangalore/events/274669310/
+Link: https://www.meetup.com/ibmdevconnect-bangalore/events/274669310
 <br>
+Social Media: https://twitter.com/antarikshguha/status/1339812027414446082
+<br>
+
+<p>
+<b>3. Kubernetes Forum</b>
+
+Place: Bangalore, India
+<br>
+Type: Developer Conference
+<br>
+Responsibility: Booth Duty
+<br>
+Social Media: https://twitter.com/MamathaBusi/status/1229266292831424513
+<br>
+
 </p>
 
 # 2019
@@ -110,7 +140,7 @@ Social Media:
 <br>
 https://twitter.com/priyamallya/status/1144923673406480384
 <br>
-https://twitter.com/vijaysanthi/status/1111924067605471233
+https://twitter.com/sudhargovindan/status/1144815665921970176
 <br>
 </p>
 
@@ -135,6 +165,75 @@ Responsibility: Tech Talk
 Topic: IBM Cloud Garage Method
 <br>
 Link: https://www.techgig.com/webinar/IBM-Cloud-Garage-Method-1403
+<br>
+</p>
+
+<p>
+<b>3. IBM Developer Day</b>
+
+Place: Bangalore, India
+<br>
+Type: Developer Conference
+<br>
+Responsibility: Booth Duty
+<br>
+Social Media: https://twitter.com/seemapk/status/1106204819339927553
+<br>
+</p>
+
+<p>
+<b>4. Great International Developer Summit</b>
+
+Place: Bangalore, India
+<br>
+Type: Developer Conference
+<br>
+Link: https://www.linkedin.com/pulse/great-international-developer-summit-2019-22nd-26th-ramadevi-r
+<br>
+Responsibility: Booth Duty
+<br>
+Social Media: https://twitter.com/smalathi/status/1120596840561487877
+<br>
+</p>
+
+<p>
+<b>5. IBM Developer Day at Royal Bank of Scotland</b>
+
+Place: Chennai, India
+<br>
+Type: Client Developer Conference
+<br>
+Responsibility: Hands-on Workshop
+<br>
+Topic: Caveats of microservices development
+<br>
+Social Media: https://twitter.com/nsobti25/status/1132890958532493313
+<br>
+</p>
+
+<p>
+<b>6. RACE360</b>
+
+Place: Reva University, Bangalore, India
+<br>
+Type: Technical Conference
+<br>
+Responsibility: Booth Duty
+<br>
+Social Media: https://twitter.com/sudhargovindan/status/1166659842229977089
+<br>
+</p>
+
+<p>
+<b>7. Digital Developer Conference</b>
+
+Place: Virtual
+<br>
+Type: Developer Conference
+<br>
+Responsibility: Slack support
+<br>
+Social Media: https://twitter.com/priyamallya/status/1193188014656126976
 <br>
 </p>
 
@@ -291,7 +390,7 @@ Responsibility: Hands-on Workshop
 <br>
 Topic: Deploy MicroProfile based Java microservices on Kubernetes
 <br>
-Link: https://www.meetup.com/IBMDevConnect-Bangalore/events/256537019/
+Link: https://www.meetup.com/IBMDevConnect-Bangalore/events/256537019
 <br>
 
 Title: IBM Cloud Technical Workshop
@@ -300,16 +399,22 @@ Responsibility: Hands-on Workshop
 <br>
 Topic: IBM Cloud Technical Workshop
 <br>
-Link: https://www.meetup.com/ibmdevconnect-bangalore/events/252587565/
+Link: https://www.meetup.com/ibmdevconnect-bangalore/events/252587565
 <br>
 Social Media: https://twitter.com/sudhargovindan/status/1016208713525420032
 <br>
 
+Title: DevOps with IBM Cloud Garage Method
+<br>
 Responsibility: Tech Talk
 <br>
 Topic: IBM Cloud Garage Method
 <br>
-Social Media: https://twitter.com/sudhargovindan/status/1075402865571590145
+Social Media:
+<br>
+https://twitter.com/sudhargovindan/status/1075402865571590145
+<br>
+https://www.linkedin.com/feed/update/urn:li:activity:6488634582827659264
 <br>
 
 Title: Women who Code - Lunch n Learn with IBM celebrating International Women's day
@@ -318,7 +423,7 @@ Responsibility: Tech Talk
 <br>
 Topic: Serverless Computing-A Paradigm shift
 <br>
-Link: https://www.meetup.com/ibmdevconnect-bangalore/events/248298903/
+Link: https://www.meetup.com/ibmdevconnect-bangalore/events/248298903
 <br>
 
 Title: Extend your On-premises applications and services to a Hybrid Cloud
@@ -327,7 +432,7 @@ Responsibility: Tech Talk
 <br>
 Topic: Extend your On-premises applications and services to a Hybrid Cloud
 <br>
-Link: https://www.meetup.com/ibmdevconnect-bangalore/events/248053464/
+Link: https://www.meetup.com/ibmdevconnect-bangalore/events/248053464
 <br>
 </p>
 
@@ -477,7 +582,13 @@ Type: Developer Conference
 <br>
 Responsibility: Booth Duty
 <br>
-Social Media: https://twitter.com/mobiledevsummit/status/916223054866391040
+Link: http://developermarch.com/mds/MODS2017/conference.html
+<br>
+Social Media:
+<br>
+https://twitter.com/mobiledevsummit/status/916223054866391040
+<br>
+https://twitter.com/sudhargovindan/status/916177708521996288
 <br>
 </p>
 
@@ -518,6 +629,22 @@ Responsibility: Tech Talk
 <br>
 Topic: Introduction to IBM Cloud and Watson services
 <br>
-Link: https://www.meetup.com/ibmdevconnect-bangalore/events/245661486/
+Link: https://www.meetup.com/ibmdevconnect-bangalore/events/245661486
 <br>
+</p>
+
+<p>
+<b>10. Hacker Earth</b>
+
+Place: Virtual
+<br>
+Type: Webinar
+<br>
+Responsibility: Tech Talk
+<br>
+Topic: Introduction to IBM Bluemix Runtime
+<br>
+Link: https://youtu.be/oEAOnfHZpFc
+<br>
+Social Media: https://twitter.com/CarlSSwanson/status/898268888294621185
 </p>
