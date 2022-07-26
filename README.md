@@ -66,6 +66,21 @@ Link: https://www.meetup.com/ibmdevconnect-bangalore/events/274669328
 <br>
 </p>
 
+<p>
+<b>5. KubeSummit</b>
+
+Place: Virtual
+<br>
+Type: Developer Conference
+<br>
+Responsibility:
+- Led and managed the Slack response team
+- Reviewed all the CFP submissions for the conference
+
+Link: https://developer.ibm.com/conferences/kubesummit
+<br>
+</p>
+
 # 2020
 
 <p>
@@ -121,8 +136,31 @@ Type: Developer Conference
 Responsibility: Booth Duty
 <br>
 Social Media: https://twitter.com/MamathaBusi/status/1229266292831424513
-<br>
+</p>
 
+<p>
+<b>4. Call For Code</b>
+
+Place: Virtual
+<br>
+Type: Global Hackathon
+<br>
+Responsibility: Judging panelist
+<br>
+Link: https://developer.ibm.com/callforcode/solutions/2020-solutions
+</p>
+
+<p>
+<b>5. Digital Developer Conference</b>
+
+Place: Virtual
+<br>
+Type: Developer Conference
+<br>
+Responsibility: Slack support
+<br>
+Link: https://developer.ibm.com/conferences/digital-developer-conference-hybrid-cloud-2020
+<br>
 </p>
 
 # 2019
@@ -137,11 +175,8 @@ Type: Global Hackathon
 Responsibility: Tech Talk and Organiser
 <br>
 Social Media:
-<br>
-https://twitter.com/priyamallya/status/1144923673406480384
-<br>
-https://twitter.com/sudhargovindan/status/1144815665921970176
-<br>
+- https://twitter.com/priyamallya/status/1144923673406480384
+- https://twitter.com/sudhargovindan/status/1144815665921970176
 </p>
 
 <p>
@@ -197,15 +232,17 @@ Social Media: https://twitter.com/smalathi/status/1120596840561487877
 </p>
 
 <p>
-<b>5. IBM Developer Day at Royal Bank of Scotland</b>
+<b>5. IBM Day @ Royal Bank of Scotland</b>
 
-Place: Chennai, India
+Place: Chennai and Gurgaon, India
 <br>
 Type: Client Developer Conference
 <br>
-Responsibility: Hands-on Workshop
+Responsibility: Tech-Talk & Hands-on Workshop
 <br>
-Topic: Caveats of microservices development
+Topics:
+- Caveats of microservices development
+- Deploy a Kubernetes app on Cloud using DevOps Toolchain
 <br>
 Social Media: https://twitter.com/nsobti25/status/1132890958532493313
 <br>
@@ -234,6 +271,32 @@ Type: Developer Conference
 Responsibility: Slack support
 <br>
 Social Media: https://twitter.com/priyamallya/status/1193188014656126976
+<br>
+</p>
+
+<p>
+<b>8. Bangalore Tech Summit</b>
+
+Place: Bangalore, India
+<br>
+Type: Technology Conference from Government of Karnataka
+<br>
+Responsibility: Booth Duty
+<br>
+Link: https://www.bengalurutechsummit.com/pdf/BTS-2019-Event-Report.pdf
+<br>
+</p>
+
+<p>
+<b>9. IBM DAY @ Tata Consultancy Services</b>
+
+Place: Hyderabad, India
+<br>
+Type: Client Developer Conference
+<br>
+Responsibility: Hands-on Workshop
+<br>
+Topic: Deploy a Kubernetes app on Cloud using DevOps Toolchain
 <br>
 </p>
 
@@ -266,13 +329,9 @@ Responsibility: Hands-on Workshop
 Topic: Kubernetes Minicode Lab
 <br>
 Social Media:
-<br>
-https://twitter.com/sudhargovindan/status/963638944528240642
-<br>
-https://twitter.com/seemapk/status/963769186496458752
-<br>
-https://twitter.com/seemapk/status/963768712410161152
-<br>
+- https://twitter.com/sudhargovindan/status/963638944528240642
+- https://twitter.com/seemapk/status/963769186496458752
+- https://twitter.com/seemapk/status/963768712410161152
 </p>
 
 <p>
@@ -285,11 +344,8 @@ Type: Global Hackathon
 Responsibility: Hands-on Workshop
 <br>
 Social Media: 
-<br>
-https://twitter.com/seemapk/status/1037909809750855682
-<br>
-https://twitter.com/seemapk/status/1038449142060568577
-<br>
+- https://twitter.com/seemapk/status/1037909809750855682
+- https://twitter.com/seemapk/status/1038449142060568577
 </p>
 
 <p>
@@ -332,11 +388,8 @@ Responsibility: Tech Talk
 Topic: Overview of Call For Code global hackathon
 <br>
 Social Media:
-<br>
-https://twitter.com/sudhargovindan/status/1043354545164697601
-<br>
-https://twitter.com/noopur2507/status/1043484581893169152
-<br>
+- https://twitter.com/sudhargovindan/status/1043354545164697601
+- https://twitter.com/noopur2507/status/1043484581893169152
 </p>
 
 <p>
@@ -411,11 +464,8 @@ Responsibility: Tech Talk
 Topic: IBM Cloud Garage Method
 <br>
 Social Media:
-<br>
-https://twitter.com/sudhargovindan/status/1075402865571590145
-<br>
-https://www.linkedin.com/feed/update/urn:li:activity:6488634582827659264
-<br>
+- https://twitter.com/sudhargovindan/status/1075402865571590145
+- https://www.linkedin.com/feed/update/urn:li:activity:6488634582827659264
 
 Title: Women who Code - Lunch n Learn with IBM celebrating International Women's day
 <br>
@@ -450,11 +500,8 @@ Topic: IBM Watson Cognitive services
 Link: https://www.meetup.com/Hackerearth/events/246477197
 <br>
 Social Media:
-<br>
-https://twitter.com/sudhargovindan/status/953149730011230208
-<br>
-https://twitter.com/sudhargovindan/status/954603863645995008
-<br>
+- https://twitter.com/sudhargovindan/status/953149730011230208
+- https://twitter.com/sudhargovindan/status/954603863645995008
 </p>
 
 <p>
@@ -501,25 +548,20 @@ Responsibility: Tech Talk (day 1)
 Topic: Deep dive in to IBM Cloud PaaS
 <br>
 Social Media:
-<br>
-https://twitter.com/sudhargovindan/status/940188094573064192
-<br>
-https://twitter.com/sudhargovindan/status/941245466880098304
+- https://twitter.com/sudhargovindan/status/940188094573064192
+- https://twitter.com/sudhargovindan/status/941245466880098304
 
 Responsibility: Hands-on Workshop (day 2)
 <br>
 Topic: Chatbots with Watson Conversation
 <br>
 Social Media:
-<br>
-https://twitter.com/sudhargovindan/status/940189045224648706
-<br>
-https://twitter.com/sudhargovindan/status/941552645046657024
-<br>
+- https://twitter.com/sudhargovindan/status/940189045224648706
+- https://twitter.com/sudhargovindan/status/941552645046657024
 </p>
 
 <p>
-<b>3. IBM Developer Day</b>
+<b>3. IBM Day @ SLASSCOM</b>
 
 Place: Colombo, Sri Lanka
 <br>
@@ -530,11 +572,8 @@ Responsibility: Hands-on Workshop
 Topic: Create a Chatbot using IBM Watson Conversation
 <br>
 Social Media:
-<br>
-https://twitter.com/AshishGautam70/status/936143440886108160
-<br>
-https://twitter.com/seemapk/status/936236535212425216
-<br>
+- https://twitter.com/AshishGautam70/status/936143440886108160
+- https://twitter.com/seemapk/status/936236535212425216
 </p>
 
 <p>
@@ -549,11 +588,8 @@ Responsibility: Tech Talk
 Topic: Intro to IBM Bluemix Runtime
 <br>
 Social Media:
-<br>
-https://twitter.com/sudhargovindan/status/896466568971927552
-<br>
-https://twitter.com/sudhargovindan/status/898438971792834560
-<br>
+- https://twitter.com/sudhargovindan/status/896466568971927552
+- https://twitter.com/sudhargovindan/status/898438971792834560
 </p>
 
 <p>
@@ -566,11 +602,8 @@ Type: Hackathon
 Responsibility: Mentor and Jury
 <br>
 Social Media:
-<br>
-https://twitter.com/seemapk/status/896297279274889218
-<br>
-https://twitter.com/sudhargovindan/status/896465479711170560
-<br>
+- https://twitter.com/seemapk/status/896297279274889218
+- https://twitter.com/sudhargovindan/status/896465479711170560
 </p>
 
 <p>
@@ -585,11 +618,8 @@ Responsibility: Booth Duty
 Link: http://developermarch.com/mds/MODS2017/conference.html
 <br>
 Social Media:
-<br>
-https://twitter.com/mobiledevsummit/status/916223054866391040
-<br>
-https://twitter.com/sudhargovindan/status/916177708521996288
-<br>
+- https://twitter.com/mobiledevsummit/status/916223054866391040
+- https://twitter.com/sudhargovindan/status/916177708521996288
 </p>
 
 <p>
@@ -647,4 +677,16 @@ Topic: Introduction to IBM Bluemix Runtime
 Link: https://youtu.be/oEAOnfHZpFc
 <br>
 Social Media: https://twitter.com/CarlSSwanson/status/898268888294621185
+</p>
+
+<p>
+<b>11. IBM Day @ Titan Industries</b>
+
+Place: Hosur & Bangalore, India
+<br>
+Type: Technical Session
+<br>
+Responsibility: Tech Talk
+<br>
+Topic: Introduction to IBM Cloud + Overview of Watson APIs
 </p>
