@@ -33,22 +33,31 @@ Social Media: https://twitter.com/sudhargovindan/status/1361720513148706821
 <p>
 <b>3. IBM Career Education program for College Students & Teaching Faculty</b>
 
-Place: Crescent Institute of Science & Technology, Virtual
+Place: Crescent Institute of Science & Technology, Chennai
 <br>
-Type: Webinar
+Type: Webinar, Virtual
 <br>
 Responsibility: Tech Talk
 <br>
 Topic: <a href="https://crescent.education/university/schools/school-of-computer-information-and-mathematical-sciences/department-of-computer-science-and-engineering/accolades/ibm-career-education-program">Introduction to CI/CD & DevOps</a>
 <br>
 
-Place: Amrita Vishwa Vidyapeetham, Virtual
+Place: Amrita Vishwa Vidyapeetham, Bangalore
 <br>
-Type: Webinar
+Type: Webinar, Virtual
 <br>
 Responsibility: Hands-on Workshop
 <br>
 Topic: <a href="https://intranet.cb.amrita.edu/download/public/2021/cir/newsletter/Utkarsh_May2021.pdf">Workshop on Enterprise Design Thinking</a>
+<br>
+
+Place: East West Institute of Technology, Bangalore
+<br>
+Type: Webinar, Virtual
+<br>
+Responsibility: Tech Talk
+<br>
+Topic: Getting started with IoT platform on Cloud
 </p>
 
 <p>
