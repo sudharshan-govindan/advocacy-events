@@ -33,7 +33,7 @@ Social Media: https://twitter.com/sudhargovindan/status/1361720513148706821
 <p>
 <b>3. IBM Career Education program for College Students & Teaching Faculty</b>
 
-Place: Crescent Institute of Science & Technology, Chennai
+a) Place: Crescent Institute of Science & Technology, Chennai
 <br>
 Type: Webinar, Virtual
 <br>
@@ -42,7 +42,7 @@ Responsibility: Tech Talk
 Topic: <a href="https://crescent.education/university/schools/school-of-computer-information-and-mathematical-sciences/department-of-computer-science-and-engineering/accolades/ibm-career-education-program">Introduction to CI/CD & DevOps</a>
 <br>
 
-Place: Amrita Vishwa Vidyapeetham, Bangalore
+b) Place: Amrita Vishwa Vidyapeetham, Bangalore
 <br>
 Type: Webinar, Virtual
 <br>
@@ -51,13 +51,13 @@ Responsibility: Hands-on Workshop
 Topic: <a href="https://intranet.cb.amrita.edu/download/public/2021/cir/newsletter/Utkarsh_May2021.pdf">Workshop on Enterprise Design Thinking</a>
 <br>
 
-Place: East West Institute of Technology, Bangalore
+c) Place: East West Institute of Technology, Bangalore
 <br>
 Type: Webinar, Virtual
 <br>
 Responsibility: Tech Talk
 <br>
-Topic: Getting started with IoT platform on Cloud
+Topic: <a href="./EWIT-STTP Shedule Phase 3.pdf">Getting started with IoT platform on Cloud</a>
 </p>
 
 <p>
@@ -95,7 +95,7 @@ Link: https://developer.ibm.com/conferences/kubesummit
 <p>
 <b>1. Build Smart on Kubernetes World Tour</b>
 
-Place: Bangalore, India
+a) Place: Bangalore, India
 <br>
 Type: Meetup
 <br>
@@ -108,7 +108,7 @@ Link: https://www.meetup.com/ibmdevconnect-bangalore/events/268165571
 Social Media: https://twitter.com/sudhargovindan/status/1233641421275451392
 <br>
 
-Place: Virtual
+b) Place: Virtual
 <br>
 Type: Meetup
 <br>
@@ -172,6 +172,90 @@ Link: https://developer.ibm.com/conferences/digital-developer-conference-hybrid-
 <br>
 </p>
 
+<p>
+<b>6. IBM Day @ Altran</b>
+
+Place: Gurgaon, India
+<br>
+Type: Client Advocacy Technical Sessions
+<br>
+Responsibility: Tech Talk
+<br>
+Topic: Kubenetes Deep Dive
+<br>
+</p>
+
+<p>
+<b>7. IBM Day @ ANZ</b>
+
+Place: Virtual
+<br>
+Type: Client Advocacy Technical Sessions
+<br>
+Responsibility: Tech Talk + Hands-on Workshop
+<br>
+Topic:
+- DevOps Tools
+- Deploy an app and manage it using DevOps Toolchain
+</p>
+
+<p>
+<b>8. IBM Day @ AT&T</b>
+
+Place: Virtual
+<br>
+Type: Client Advocacy Technical Sessions
+<br>
+Responsibility: Tech Talk
+<br>
+Topic:
+- Introduction to DevOps
+- DevOps Tools on IBM Cloud
+</p>
+
+<p>
+<b>9. IBM Day @ Bank of America</b>
+
+Place: Virtual
+<br>
+Type: Client Advocacy Technical Sessions
+<br>
+Responsibility: Tech Talk
+<br>
+Topic: Accelerating the Enterprise Journey to Cloud
+<br>
+</p>
+
+<p>
+<b>10. IBM Day @ Barclays</b>
+
+Place: Virtual
+<br>
+Type: Client Advocacy Technical Sessions
+<br>
+Responsibility: Tech Talk
+<br>
+Topic: Enterprise Application Modernization
+<br>
+</p>
+
+<p>
+<b>11. IBM Day @ Citi</b>
+
+Place: Virtual
+<br>
+Type: Client Advocacy Technical Sessions
+<br>
+Responsibility: Tech Talk + Hands-on Workshop
+<br>
+Topic:
+- Introduction to Containers
+- Deploy a microservices app on Kubernetes cluster in IBM Cloud
+- Learn the Basics of Red Hat OpenShift on IBM Cloud
+- CI/CD on OpenShift
+- Serverless Computing
+</p>
+
 # 2019
 
 <p>
@@ -193,7 +277,7 @@ Social Media:
 
 Place: Virtual
 <br>
-Type: Webinar
+a) Type: Webinar
 <br>
 Responsibility: Hands-on Workshop
 <br>
@@ -202,7 +286,7 @@ Topic: Create a Toolchain with IBM Cloud DevOps
 Link: https://www.techgig.com/webinar/Create-a-Toolchain-with-IBM-Cloud-DevOps-1470
 <br>
 
-Type: Webinar
+b) Type: Webinar
 <br>
 Responsibility: Tech Talk
 <br>
@@ -307,6 +391,21 @@ Responsibility: Hands-on Workshop
 <br>
 Topic: Deploy a Kubernetes app on Cloud using DevOps Toolchain
 <br>
+</p>
+
+<p>
+<b>10. IBM Day @ CGI</b>
+
+Place: Bangalore, India
+<br>
+Type: Client Advocacy Technical Sessions
+<br>
+Responsibility: Tech Talk + Hands-on Workshop
+<br>
+Topic:
+- Deep dive in to IBM Cloud
+- Microservices - Principles, Patterns and Implementation considerations
+- Deploy a Kubernetes Application on IBM Cloud
 </p>
 
 # 2018
@@ -426,7 +525,7 @@ Place: Bangalore, India
 Type: Meetup
 <br>
 
-Title: Microservices for your Kubernetes cloud - Designing, Developing & Optimizing
+a) Title: Microservices for your Kubernetes cloud - Designing, Developing & Optimizing
 <br>
 Responsibility: Tech Talk
 <br>
@@ -437,7 +536,7 @@ Link: https://www.meetup.com/IBMDevConnect-Bangalore/events/256565536
 Social Media: https://twitter.com/dinogun/status/1068833517482770434
 <br>
 
-Title: Free Hands-on session on Microservices with Java and Kubernetes
+b) Title: Free Hands-on session on Microservices with Java and Kubernetes
 <br>
 Responsibility: Hands-on Workshop
 <br>
@@ -446,7 +545,7 @@ Topic: Deploy MicroProfile based Java microservices on Kubernetes
 Link: https://www.meetup.com/IBMDevConnect-Bangalore/events/256141061
 <br>
 
-Title: IBM Cloud Private & Containers with Code Patterns - Hands-on Workshop
+c) Title: IBM Cloud Private & Containers with Code Patterns - Hands-on Workshop
 <br>
 Responsibility: Hands-on Workshop
 <br>
@@ -455,7 +554,7 @@ Topic: Deploy MicroProfile based Java microservices on Kubernetes
 Link: https://www.meetup.com/IBMDevConnect-Bangalore/events/256537019
 <br>
 
-Title: IBM Cloud Technical Workshop
+d) Title: IBM Cloud Technical Workshop
 <br>
 Responsibility: Hands-on Workshop
 <br>
@@ -466,7 +565,7 @@ Link: https://www.meetup.com/ibmdevconnect-bangalore/events/252587565
 Social Media: https://twitter.com/sudhargovindan/status/1016208713525420032
 <br>
 
-Title: DevOps with IBM Cloud Garage Method
+e) Title: DevOps with IBM Cloud Garage Method
 <br>
 Responsibility: Tech Talk
 <br>
@@ -476,7 +575,7 @@ Social Media:
 - https://twitter.com/sudhargovindan/status/1075402865571590145
 - https://www.linkedin.com/feed/update/urn:li:activity:6488634582827659264
 
-Title: Women who Code - Lunch n Learn with IBM celebrating International Women's day
+f) Title: Women who Code - Lunch n Learn with IBM celebrating International Women's day
 <br>
 Responsibility: Tech Talk
 <br>
@@ -485,7 +584,7 @@ Topic: Serverless Computing-A Paradigm shift
 Link: https://www.meetup.com/ibmdevconnect-bangalore/events/248298903
 <br>
 
-Title: Extend your On-premises applications and services to a Hybrid Cloud
+g) Title: Extend your On-premises applications and services to a Hybrid Cloud
 <br>
 Responsibility: Tech Talk
 <br>
