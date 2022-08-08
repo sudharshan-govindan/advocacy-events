@@ -280,6 +280,16 @@ Responsibility: Tech Talk
 Topic: Introduction to Serverless programming on IBM Cloud
 </p>
 
+<p>
+<b>14. Call For Code @ Morgan Stanley</b>
+
+Place: Virtual
+<br>
+Type: Global Hackathon preparation sessions for Client
+<br>
+Responsibility: Tech Talk + Hands-on Workshop + Hackathon Mentor
+</p>
+
 # 2019
 
 <p>
@@ -405,7 +415,7 @@ Link: https://www.bengalurutechsummit.com/pdf/BTS-2019-Event-Report.pdf
 </p>
 
 <p>
-<b>9. IBM DAY @ Tata Consultancy Services</b>
+<b>9. IBM Day @ Tata Consultancy Services</b>
 
 Place: Hyderabad, India
 <br>
@@ -430,6 +440,18 @@ Topic:
 - Deep dive in to IBM Cloud
 - Microservices - Principles, Patterns and Implementation considerations
 - Deploy a Kubernetes Application on IBM Cloud
+</p>
+
+<p>
+<b>11. IBM Day @ Toyota</b>
+
+Place: Mysore, India
+<br>
+Type: Client Advocacy Technical Sessions
+<br>
+Responsibility: Tech Talk
+<br>
+Topic: Overview of IBM Cloud
 </p>
 
 # 2018
@@ -616,6 +638,25 @@ Topic: Extend your On-premises applications and services to a Hybrid Cloud
 <br>
 Link: https://www.meetup.com/ibmdevconnect-bangalore/events/248053464
 <br>
+
+h) Title: IBM Developer Day
+<br>
+Responsibility: Tech Talk
+<br>
+Topic: How to deploy your app on IBM Cloud?
+<br>
+Link: https://www.meetup.com/ibmdevconnect-bangalore/events/249744830
+<br>
+
+i) Title: IBM Developer Day
+<br>
+Responsibility: Hands-on Workshop
+<br>
+Topic: Build Watson powered conversational bots
+<br>
+Link: https://www.meetup.com/ibmdevconnect-bangalore/events/251552497
+<br>
+
 </p>
 
 <p>
@@ -821,4 +862,16 @@ Type: Technical Session
 Responsibility: Tech Talk
 <br>
 Topic: Introduction to IBM Cloud + Overview of Watson APIs
+</p>
+
+<p>
+<b>12. IBM Partner program</b>
+
+Place: Bangalore, India
+<br>
+Type: Technical enablement for ISVs
+<br>
+Responsibility: Tech Talk
+<br>
+Topic: Overview of IBM Bluemix Runtimes
 </p>
