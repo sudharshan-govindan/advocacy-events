@@ -256,6 +256,30 @@ Topic:
 - Serverless Computing
 </p>
 
+<p>
+<b>12. IBM Day @ Digital Bank of Singapore</b>
+
+Place: Virtual
+<br>
+Type: Client Advocacy Technical Sessions
+<br>
+Responsibility: Tech Talk
+<br>
+Topic: DevOps Tools on IBM Cloud
+</p>
+
+<p>
+<b>13. IBM Day @ HDFC Bank</b>
+
+Place: Virtual
+<br>
+Type: Client Advocacy Technical Sessions
+<br>
+Responsibility: Tech Talk
+<br>
+Topic: Introduction to Serverless programming on IBM Cloud
+</p>
+
 # 2019
 
 <p>
