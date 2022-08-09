@@ -690,6 +690,32 @@ Social Media: https://twitter.com/sudhargovindan/status/954936430597255168
 <br>
 </p>
 
+<p>
+<b>11. IBM Partner program for B-Hub</b>
+
+Place: Bangalore, India
+<br>
+Type: Technical enablement for ISVs
+<br>
+Responsibility: Tech Talk
+<br>
+Topics:
+- Overview of IBM Cloud DevOps
+- What is IBM Garage Method?
+</p>
+
+<p>
+<b>12. IBM Partner program for NASSCOM</b>
+
+Place: Virtual
+<br>
+Type: Webinar
+<br>
+Responsibility: Tech Talk
+<br>
+Topic: Deep dive in to IBM Cloud + Overview of Watson APIs
+</p>
+
 # 2017
 
 <p>
@@ -871,7 +897,29 @@ Place: Bangalore, India
 <br>
 Type: Technical enablement for ISVs
 <br>
-Responsibility: Tech Talk
+
+a) Responsibility: Tech Talk
 <br>
 Topic: Overview of IBM Bluemix Runtimes
+
+b) Responsibility: Tech Talk
+<br>
+Topics:
+- Overview of IBM Cloud
+- Containers, Microservices & Cloud Functions
+- DevOps Tools
+
+c) Responsibility: Tech Talk + Hands-on Workshop
+<br>
+Topics:
+- Introduction to Watson
+- Assemble a pizza-ordering chatbot
+
+d) Responsibility: Tech Talk + Hands-on Workshop
+<br>
+Topics:
+- Deep dive into IBM Cloud
+- Overview of Watson APIs
+- How to consume Watson APIs using Node-RED
+
 </p>
